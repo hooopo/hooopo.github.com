@@ -66,13 +66,13 @@ github_skip_forks: true
 # Twitter
 twitter_user: hooopo
 twitter_tweet_count: 4
-twitter_show_replies: false
+twitter_show_replies: true
 twitter_follow_button: true
-twitter_show_follower_count: false
+twitter_show_follower_count: true
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -89,11 +89,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: Hooopo
+disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-28611670-1
 
 # Facebook Like
 facebook_like: false
