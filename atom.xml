@@ -4,7 +4,7 @@
   <title><![CDATA[Hooopo's Blog]]></title>
   <link href="http://hooopo.github.com/atom.xml" rel="self"/>
   <link href="http://hooopo.github.com/"/>
-  <updated>2012-01-23T22:03:02+08:00</updated>
+  <updated>2012-01-25T21:24:18+08:00</updated>
   <id>http://hooopo.github.com/</id>
   <author>
     <name><![CDATA[Hooopo]]></name>
@@ -18,7 +18,7 @@
     <link href="http://hooopo.github.com/blog/2012/01/23/hello-hooopo/"/>
     <updated>2012-01-23T21:57:00+08:00</updated>
     <id>http://hooopo.github.com/blog/2012/01/23/hello-hooopo</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>hello hooopo</p>
 ]]></content>
   </entry>
   
